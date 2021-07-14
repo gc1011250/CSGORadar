@@ -17,7 +17,7 @@ The connections between the arduino and the led matrix looks something like this
 You will have to update the addresses and offsets in the main.cpp file for it to work.
 The addresses can be found here: https://github.com/frk1/hazedumper/blob/master/csgo.cs.
 You will probably also have to change the COM port for it to work which is also in the main.cpp file.
-
+I did tape off one row and one column in order to have a center point. 
 
 When it's working it should look something like this.
 
