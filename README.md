@@ -3,7 +3,7 @@ For a school project I had to do something with an arduino.
 I decided to make a radar for csgo with a led matrix. 
 
 
-##Supplies
+## Supplies
 1) Arduino Uno.
 2) 2 Breadboards.
 3) 8x8 led matrix.
