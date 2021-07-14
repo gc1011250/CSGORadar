@@ -1,0 +1,4 @@
+C:\Users\flori\Desktop\Arduino2PC_SC\Debug\Arduino2PC_SC.exe
+C:\Users\flori\Desktop\Arduino2PC_SC\Debug\Arduino2PC_SC.pdb
+C:\Users\flori\Desktop\working\Arduino2PC_SC\Debug\Arduino2PC_SC.exe
+C:\Users\flori\Desktop\working\Arduino2PC_SC\Debug\Arduino2PC_SC.pdb

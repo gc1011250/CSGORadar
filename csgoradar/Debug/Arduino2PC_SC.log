@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\flori\Desktop\working\Arduino2PC_SC\sdkmath.h(147,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\flori\Desktop\working\Arduino2PC_SC\sdkmath.h(147,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\flori\Desktop\working\Arduino2PC_SC\sdkmath.h(147,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\flori\Desktop\working\Arduino2PC_SC\main.cpp(130,37): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\flori\Desktop\working\Arduino2PC_SC\main.cpp(145,37): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\flori\Desktop\working\Arduino2PC_SC\main.cpp(154,40): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\flori\Desktop\working\Arduino2PC_SC\main.cpp(156,40): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\flori\Desktop\working\Arduino2PC_SC\main.cpp(161,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\flori\Desktop\working\Arduino2PC_SC\main.cpp(162,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Arduino2PC_SC.vcxproj -> C:\Users\flori\Desktop\working\Arduino2PC_SC\Debug\Arduino2PC_SC.exe
