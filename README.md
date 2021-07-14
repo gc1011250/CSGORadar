@@ -19,3 +19,7 @@ The addresses can be found here: https://github.com/frk1/hazedumper/blob/master/
 you will probably also have to change the COM port for it to work which is also in the main.cpp file.
 
 
+When it's working it should look something like this.
+
+https://user-images.githubusercontent.com/72727982/125674555-b5efd369-8aa0-4cc1-867f-0f8729b7ae03.mp4
+
