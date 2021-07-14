@@ -9,7 +9,12 @@ I decided to make a radar for csgo with a led matrix.
 3) 8x8 led matrix.
 
 
-[\n]
+
 The connections between the arduino and the led matrix looks something like this.
 
 ![matrix_connections_s9OJ43nrTc](https://user-images.githubusercontent.com/72727982/125671026-eb9f9444-7319-46c8-aeb2-b57ba0ce3d87.jpg)
+
+You will have to update the addresses and offsets for it to work.
+The addresses can be found here : https://github.com/frk1/hazedumper/blob/master/csgo.cs.
+
+
